@@ -1,0 +1,4 @@
+CREATE TABLE municipality (
+    id NUMBER PRIMARY KEY,
+    name VARCHAR2(255) NOT NULL
+);

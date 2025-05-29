@@ -1,0 +1,1 @@
+CREATE INDEX idx_municipality_name ON municipality (nombre);

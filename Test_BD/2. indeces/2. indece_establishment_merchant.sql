@@ -1,0 +1,1 @@
+CREATE INDEX idx_establishment_merchant ON establishment(merchant_id);

@@ -1,0 +1,1 @@
+CREATE INDEX idx_merchant_auth ON merchant(updated_by_user);
